@@ -1,54 +1,134 @@
-﻿이미지,이름,영문이름,종류,가격,당도,바디,아로마1,아로마2,아로마3,품종
-https://wine21.speedgabia.com/WINE_MST/TITLE/0170000/W0170591.png,오프리 20년 토니 포트,Offley 20 Years,주정강화,15,3,3,시나몬,아몬드,오크통,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0170000/W0170588.png,오프리 화이트 포트,Offley White Porto,주정강화,3,3,1,꽃,사과,오크통,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0170000/W0170104.png,미구엘 10년 화이트 포트,Miguels 10 Years White Port,주정강화,10,3,4,숙성,시나몬,오크통,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0170000/W0170103.png,미구엘 10년 토니 포트,Miguels 10 Years Tawny Port,주정강화,10,3,4,말린과일,숙성,시나몬,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0170000/W0170102.png,미구엘 엘비브이 포트,Miguels L.B.V Port,주정강화,7,5,4,말린과일,베리,시나몬,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0170000/W0170100.png,미구엘 화이트 스윗 포트,Miguels White Sweet Port,주정강화,4,5,4,꽃,레몬,오크통,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0169000/W0169981.png,마크드플라츠 글루바인,Marktplatz Gluhwein,기타,0,3,3,레몬,베리,시나몬,기타 품종
-https://wine21.speedgabia.com/WINE_MST/TITLE/0168000/W0168889.png,샤또 롱보 리브잘트 앙브레,Château Rombeau Rivesaltes Ambre,주정강화,6,5,5,레몬,아몬드,오크통,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0168000/W0168888.png,샤또 롱보 뮈스카 드 리브잘트,Château Rombeau Muscat de Rivesaltes,주정강화,5,4,5,꽃,레몬,파인애플,뮈스까 블랑 쁘띠 그랑
-https://wine21.speedgabia.com/WINE_MST/TITLE/0168000/W0168523.png,글로리아 토니 포트 와인,Gloria Tawny Porto,주정강화,4,4,4,말린과일,시나몬,오크통,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0168000/W0168312.png,앙고브 레어 토니 25년,Angove Rare Tawny 25 years,주정강화,12,5,5,숙성,시나몬,오크통,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0167000/W0167644.png,버메스터 타우니 포트,Burmester Tawny Port,주정강화,4,5,5,베리,시나몬,오크통,블렌드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0167000/W0167191.png,주스티노스 마데이라 리저브 파인 드라이 5년,Justino's Medeira Reserve Fine Dry 5 Years Old,주정강화,7,1,3,레몬,아몬드,오크통,틴타 네그라 몰레
-https://wine21.speedgabia.com/WINE_MST/TITLE/0167000/W0167168.png,앙고브 레어 토니 15년,Angove Rare Tawny 15 years,주정강화,10,5,5,꽃,말린과일,시나몬,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0167000/W0167051.jpg,로레아 넘버 2 상그리아,Lolea No.2 Sangria,기타,3,1,1,꽃,레몬,사과,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0166000/W0166619.jpg,하셀그로브 디 올드넛 토니 포트,Haselgrove The Old Nut Tawny Port,주정강화,10,5,5,말린과일,시나몬,오크통,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0166000/W0166298.jpg,레오나르드 커리쉬 산타 아니타 글루바인,Leonard Kreusch Santa Anita Gluhwein,기타,1,3,4,레몬,베리,숙성,블렌드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0166000/W0166119.jpg,쿠자 보다 7년,Cuza Voda 7years,고도주,8,1,4,사과,시나몬,아몬드,기타
-https://wine21.speedgabia.com/WINE_MST/TITLE/0165000/W0165334.jpg,풀뽀로꼬 상그리아 카토캔,Pulpoloco Sangria Cartocan,기타,0,3,3,레몬,베리,사과,템프라니요
-https://wine21.speedgabia.com/WINE_MST/TITLE/0164000/W0164795.jpg,까잘 가르시아 상그리아,Casal Garcia Sangria,기타,3,3,2,레몬,베리,사과,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0164000/W0164007.jpg,풀뽀로꼬 상그리아,Pulpoloco Sangria,기타,1,3,3,레몬,베리,사과,템프라니요
-https://wine21.speedgabia.com/WINE_MST/TITLE/0163000/W0163115.jpg,레오나르드 커리쉬 클리스트킨들 글루바인,Leonard Kreusch Christkindles Gluhwein,기타,1,1,3,레몬,숙성,시나몬,블렌드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0162000/W0162674.jpg,샤또 드 루 무스캇 드 리브잘트,Château de L'Ou Muscat de Rivesaltes,주정강화,6,5,4,꽃,레몬,사과,뮈스까 블랑 쁘띠 그랑
-https://wine21.speedgabia.com/WINE_MST/TITLE/0162000/W0162520.jpg,프리바다 모스카텔 드 세투발 알마냑,Privada Moscatel de Setubal Almagnac,주정강화,12,5,5,레몬,숙성,시나몬,모스카텔 드 세투발
-https://wine21.speedgabia.com/WINE_MST/TITLE/0162000/W0162519.jpg,알람브레 모스카텔 로쏘 드 세투발,Alambre Moscatel Roxo de Setubal,주정강화,7,5,5,꽃,레몬,오크통,뮈스까 로소 쁘띠 그랑
-https://wine21.speedgabia.com/WINE_MST/TITLE/0162000/W0162518.jpg,알라브레 모스카텔 드 세투발,Alambre Moscatel de Setubal,주정강화,5,5,5,사과,오크통,파인애플,모스카텔 드 세투발
-https://wine21.speedgabia.com/WINE_MST/TITLE/0162000/W0162313.jpg,뷔스넬 깔바도스 페이도쥬,Busnel Calvados Pays D'Auge,고도주,10,1,5,사과,아몬드,오크통,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0162000/W0162145.jpg,폰세카 20년 숙성 타우니 포트,Fonseca 20 Year Old Tawny Port,주정강화,12,2,5,사과,시나몬,오크통,블렌드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0162000/W0162143.jpg,폰세카 빈 27 포트,Fonseca Bin 27 Port,주정강화,4,5,5,베리,사과,오크통,블렌드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0162000/W0162141.jpg,폰세카 타우니 포트,Fonseca Tawny Port,주정강화,3,5,4,말린과일,사과,오크통,블렌드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0162000/W0162098.jpg,루스토 올로로소 돈 누뇨 솔레라 레세르바,Lustau Oloroso Don Nuno Solera Reserva,주정강화,5,1,5,숙성,아몬드,오크통,팔로미노
-https://wine21.speedgabia.com/WINE_MST/TITLE/0161000/W0161587.jpg,페드로 히메네즈 아나다,Pedro Ximenez Anada,주정강화,10,5,5,레몬,말린과일,사과,페드로 히메네스
-https://wine21.speedgabia.com/WINE_MST/TITLE/0161000/W0161586.jpg,페드로 히메네즈 솔레라 1927,Pedro Ximenez Solera 1927,주정강화,11,5,5,말린과일,숙성,오크통,페드로 히메네스
-https://wine21.speedgabia.com/WINE_MST/TITLE/0161000/W0161504.jpg,산다라 프리미엄 상그리아,Sandara Premium Sangria,기타,3,3,2,꽃,레몬,베리,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0161000/W0161246.jpg,빅토리아 토니,Victoria Tawny,주정강화,5,5,4,레몬,베리,오크통,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0161000/W0161072.jpg,아몬티야도 나폴레옹,Amontillado Napoleon,주정강화,6,1,5,숙성,시나몬,오크통,팔로미노
-https://wine21.speedgabia.com/WINE_MST/TITLE/0161000/W0161070.jpg,만사니아 라 히타나,Manzanilla La Gitana,주정강화,4,1,5,레몬,사과,시나몬,팔로미노
-https://wine21.speedgabia.com/WINE_MST/TITLE/0160000/W0160896.jpg,주스티노스 마데이라 베르델호 10년,Justino's Madeira Verdelho 10 Years Old,주정강화,13,2,5,꽃,사과,숙성,베르데호
-https://wine21.speedgabia.com/WINE_MST/TITLE/0160000/W0160893.jpg,주스티노스 마데이라 올드 리저브 파인 미디엄 드라이 10년,Justino's Madeira Old Reserve Fine Medium Dry 10 Years Old,주정강화,11,2,5,레몬,숙성,아몬드,틴타 네그라 몰레
-https://wine21.speedgabia.com/WINE_MST/TITLE/0160000/W0160891.png,주스티노스 마데이라 리저브 파인 미디엄 드라이 5년,Justino's Madeira Reserve Fine Medium Dry 5 Years Old,주정강화,7,2,5,레몬,숙성,아몬드,틴타 네그라 몰레
-https://wine21.speedgabia.com/WINE_MST/TITLE/0160000/W0160889.png,주스티노스 마데이라 파인 미디엄 드라이 3년,Justino's Madeira Fine Medium Dry 3 Years Old,주정강화,5,2,4,레몬,사과,아몬드,틴타 네그라 몰레
-https://wine21.speedgabia.com/WINE_MST/TITLE/0158000/W0158764.jpg,다우 레이트 바틀드 빈티지 포트,Dow's Late Bottled Vintage Port,주정강화,5,5,4,꽃,사과,오크통,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0157000/W0157615.jpg,블랜디스 듀크 오브 클라렌스 마데이라,Blandy's Duke of Clarence Madeira,주정강화,6,5,5,말린과일,숙성,오크통,틴타 네그라 몰레
-https://wine21.speedgabia.com/WINE_MST/TITLE/0157000/W0157364.jpg,곤잘레스 비야스 넥타르,Gonzales Byass Nectar,주정강화,7,5,5,말린과일,사과,오크통,페드로 히메네스
-https://wine21.speedgabia.com/WINE_MST/TITLE/0157000/W0157361.jpg,곤잘레스 비야스 솔레라 1847 크림쉐리,Gonzales Byass Solera 1847 Cream Sherry,주정강화,6,5,5,말린과일,사과,시나몬,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0155000/W0155812.jpg,돈 시몬 스파클링 상그리아,Don Simon Sparkling Sangria,기타,1,3,2,레몬,베리,시나몬,블렌드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0153000/W0153858.jpg,페치마이스터,Fechtmeister,고도주,6,4,3,시나몬,오크통,허브,허브
-https://wine21.speedgabia.com/WINE_MST/TITLE/0153000/W0153360.jpg,노니노 아마로,Nonino Amaro,고도주,11,1,5,레몬,오크통,허브,포마스
-https://wine21.speedgabia.com/WINE_MST/TITLE/0153000/W0153359.jpg,로 샤도네이 그라빠 디 노니노,Lo Chardonnay Grappa di Nonino,고도주,10,1,5,시나몬,아몬드,오크통,블렌디드
-https://wine21.speedgabia.com/WINE_MST/IMAGE/0152000/T0152378_002.png,라모스 핀토 루비 포트,Ramos Pinto Ruby Port,주정강화,6,5,5,베리,사과,시나몬,블렌드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0151000/W0151362.jpg,파이니스트 피노 셰리,Finest Fino Sherry,주정강화,2,2,4,레몬,사과,아몬드,팔로미노
-https://wine21.speedgabia.com/WINE_MST/TITLE/0150000/W0150771.jpg,비스타 알레그레 리저브 토니 포트,Vista Alegre Reserve Tawny Porto,주정강화,9,5,5,숙성,시나몬,오크통,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0138000/W0138741.jpg,다우 파인 토니 포트,Dow's Fine Tawny Port,주정강화,3,5,5,사과,시나몬,오크통,블렌디드
+﻿이미지,이름,영문이름,종류,가격,당도,바디,품종,아로마1,아로마2,아로마3
+https://wine21.speedgabia.com/WINE_MST/TITLE/0170000/W0170743.png,자르코 바리카 노바,Zarco Barrica Nova,고도주,9,1,5,기타,시나몬,오크통, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0170000/W0170591.png,오프리 20년 토니 포트,Offley 20 Years,주정강화,15,3,3,블렌디드,시나몬,아몬드,오크통
+https://wine21.speedgabia.com/WINE_MST/TITLE/0170000/W0170590.png,오프리 리저브 화이트 포트,Offley Reserve White,주정강화,4,3,1,블렌디드,꽃,레몬, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0170000/W0170588.png,오프리 화이트 포트,Offley White Porto,주정강화,3,3,1,블렌디드,꽃,사과,오크통
+https://wine21.speedgabia.com/WINE_MST/TITLE/0170000/W0170457.png,오프리 10년 토니 포트,Offley 10 Years,주정강화,8,3,3,블렌디드,말린과일,시나몬, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0170000/W0170451.png,울프 블라스 레드 라벨 타우니,Wolf Blass Red Label Tawny,주정강화,1,3,4,블렌디드,말린과일,오크통, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0170000/W0170324.png,오프리 루비 포트,Offley Ruby Porto,주정강화,3,3,2,블렌디드,오크통, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0170000/W0170278.jpg,커스텀 드링스 라 티타 틴토 데 베라노 리몬,Custom Drinks La Tita Tinto de Verano Limon,기타,0,3,1,기타 품종,레몬, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0170000/W0170277.jpg,커스텀 드링스 라 티타 틴토 데 베라노,Custom Drinks La Tita Tinto de Verano,기타,0,3,2,기타 품종,레몬,베리, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0170000/W0170276.jpg,커스텀 드링스 라 티타 상그리아 블랑카,Custom Drinks La Tita Sangria Blanca,기타,0,3,1,기타 품종,레몬,사과, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0170000/W0170275.png,커스텀 드링스 라 티타 상그리아,Custom Drinks La Tita Sangria,기타,0,3,2,기타 품종,레몬,베리, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0170000/W0170104.png,미구엘 10년 화이트 포트,Miguels 10 Years White Port,주정강화,10,3,4,블렌디드,숙성,시나몬,오크통
+https://wine21.speedgabia.com/WINE_MST/TITLE/0170000/W0170103.png,미구엘 10년 토니 포트,Miguels 10 Years Tawny Port,주정강화,10,3,4,블렌디드,말린과일,숙성,시나몬
+https://wine21.speedgabia.com/WINE_MST/TITLE/0170000/W0170102.png,미구엘 엘비브이 포트,Miguels L.B.V Port,주정강화,7,5,4,블렌디드,말린과일,베리,시나몬
+https://wine21.speedgabia.com/WINE_MST/TITLE/0170000/W0170101.png,미구엘 루비 포트,Miguels Ruby Port,주정강화,4,5,4,블렌디드,베리,오크통, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0170000/W0170100.png,미구엘 화이트 스윗 포트,Miguels White Sweet Port,주정강화,4,5,4,블렌디드,꽃,레몬,오크통
+https://wine21.speedgabia.com/WINE_MST/IMAGE/0170000/T0170099_001.png,미구엘 토니 포트,Miguels Tawny Port,주정강화,4,3,3,블렌디드,시나몬,오크통, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0169000/W0169981.png,마크드플라츠 글루바인,Marktplatz Gluhwein,기타,0,3,3,기타 품종,레몬,베리,시나몬
+https://wine21.speedgabia.com/WINE_MST/TITLE/0169000/W0169063.png,포르투 발도우로 10년 숙성 포트,Porto Valdouro 10 years old Port,주정강화,7,5,5,블렌디드,아몬드,오크통, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0168000/W0168895.png,자나 상그리아,Jana Sangria,기타,0,2,2,템프라니요,레몬,파인애플, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0168000/W0168889.png,샤또 롱보 리브잘트 앙브레,Château Rombeau Rivesaltes Ambre,주정강화,6,5,5,블렌디드,레몬,아몬드,오크통
+https://wine21.speedgabia.com/WINE_MST/TITLE/0168000/W0168888.png,샤또 롱보 뮈스카 드 리브잘트,Château Rombeau Muscat de Rivesaltes,주정강화,5,4,5,뮈스까 블랑 쁘띠 그랑,꽃,레몬,파인애플
+https://wine21.speedgabia.com/WINE_MST/TITLE/0168000/W0168697.png,버메스터 타베도 레드,Burmester Tavedo Red,주정강화,1,1,3,블렌디드,베리,오크통, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0168000/W0168523.png,글로리아 토니 포트 와인,Gloria Tawny Porto,주정강화,4,4,4,블렌디드,말린과일,시나몬,오크통
+https://wine21.speedgabia.com/WINE_MST/TITLE/0168000/W0168429.png,와레즈 오티마 10년 숙성 포트,Warre's Otima 10 Year old Port,주정강화,6,5,5,포트 블렌드,사과,오크통, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0168000/W0168312.png,앙고브 레어 토니 25년,Angove Rare Tawny 25 years,주정강화,12,5,5,블렌디드,숙성,시나몬,오크통
+https://wine21.speedgabia.com/WINE_MST/TITLE/0168000/W0168293.png,다우 파인 화이트 포트,Dow's Fine White Port,주정강화,3,3,3,포트 블렌드,오크통, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0167000/W0167753.png,포르투 발도우로 화이트 포트,Porto Valdouro White Port,주정강화,3,5,5,블렌디드,오크통, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0167000/W0167752.png,포르투 발도우로 토니 포트,Porto Valdouro Tawny Port,주정강화,3,5,5,블렌디드,아몬드,오크통, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0167000/W0167644.png,버메스터 타우니 포트,Burmester Tawny Port,주정강화,4,5,5,블렌드,베리,시나몬,오크통
+https://wine21.speedgabia.com/WINE_MST/TITLE/0167000/W0167222.png,프리바다 모스카텔 드 세투발 꼬냑,Privada Moscatel de Setubal Cognac,주정강화,12,5,5,모스카텔 드 세투발,레몬,숙성, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0167000/W0167191.png,주스티노스 마데이라 리저브 파인 드라이 5년,Justino's Medeira Reserve Fine Dry 5 Years Old,주정강화,7,1,3,틴타 네그라 몰레,레몬,아몬드,오크통
+https://wine21.speedgabia.com/WINE_MST/TITLE/0167000/W0167190.png,주스티노스 마데이라 파인 드라이 3년,Justino's Madeira Fine dry 3 years Old,주정강화,5,1,3,틴타 네그라 몰레,아몬드,오크통, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0167000/W0167188.jpg,풀뽀로꼬 화이트 상그리아,Pulpoloco White Sangria,기타,1,3,2,아이렌,레몬,베리, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0167000/W0167168.png,앙고브 레어 토니 15년,Angove Rare Tawny 15 years,주정강화,10,5,5,블렌디드,꽃,말린과일,시나몬
+https://wine21.speedgabia.com/WINE_MST/TITLE/0167000/W0167167.png,앙고브 그랜드 토니 10년,Angove Grand Tawny 10years,주정강화,7,5,5,블렌드,말린과일,오크통, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0167000/W0167051.jpg,로레아 넘버 2 상그리아,Lolea No.2 Sangria,기타,3,1,1,블렌디드,꽃,레몬,사과
+https://wine21.speedgabia.com/WINE_MST/TITLE/0167000/W0167050.jpg,로레아 넘버 1 상그리아,Lolea No.1 Sangria,기타,3,2,2,블렌디드,레몬,베리, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0166000/W0166619.jpg,하셀그로브 디 올드넛 토니 포트,Haselgrove The Old Nut Tawny Port,주정강화,10,5,5,블렌디드,말린과일,시나몬,오크통
+https://wine21.speedgabia.com/WINE_MST/TITLE/0166000/W0166298.jpg,레오나르드 커리쉬 산타 아니타 글루바인,Leonard Kreusch Santa Anita Gluhwein,기타,1,3,4,블렌드,레몬,베리,숙성
+https://wine21.speedgabia.com/WINE_MST/TITLE/0166000/W0166119.jpg,쿠자 보다 7년,Cuza Voda 7years,고도주,8,1,4,기타,사과,시나몬,아몬드
+https://wine21.speedgabia.com/WINE_MST/TITLE/0165000/W0165334.jpg,풀뽀로꼬 상그리아 카토캔,Pulpoloco Sangria Cartocan,기타,0,3,3,템프라니요,레몬,베리,사과
+https://wine21.speedgabia.com/WINE_MST/TITLE/0164000/W0164795.jpg,까잘 가르시아 상그리아,Casal Garcia Sangria,기타,3,3,2,블렌디드,레몬,베리,사과
+https://wine21.speedgabia.com/WINE_MST/TITLE/0164000/W0164007.jpg,풀뽀로꼬 상그리아,Pulpoloco Sangria,기타,1,3,3,템프라니요,레몬,베리,사과
+https://wine21.speedgabia.com/WINE_MST/TITLE/0163000/W0163830.jpg,그라빠 디 바롤로 42 아피나타,Grappa di Barolo 42 Affinata,고도주,14,1,5,네비올로,시나몬,오크통, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0163000/W0163824.jpg,일리걸 몰트 와인,Ilegal Malted Wine,기타,0,1,2,블렌디드,꽃,허브, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0163000/W0163253.jpg,아카데미아 아마레또,Accademia Amaretto,기타,6,5,2,기타,아몬드, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0163000/W0163252.jpg,아카데미아 리몬첼로,Accademia Limoncello,기타,5,4,2,기타,레몬, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0163000/W0163115.jpg,레오나르드 커리쉬 클리스트킨들 글루바인,Leonard Kreusch Christkindles Gluhwein,기타,1,1,3,블렌드,레몬,숙성,시나몬
+https://wine21.speedgabia.com/WINE_MST/TITLE/0163000/W0163078.jpg,써니 와인 상그리아 파우치,Sunny Wine Sangria Pouch,기타,0,3,2,블렌디드,레몬, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0163000/W0163073.jpg,루이스 더 마리네로 레드 상그리아,Luis the Marinero Red Sangria,기타,3,3,2,블렌드,레몬,베리, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0162000/W0162674.jpg,샤또 드 루 무스캇 드 리브잘트,Château de L'Ou Muscat de Rivesaltes,주정강화,6,5,4,뮈스까 블랑 쁘띠 그랑,꽃,레몬,사과
+https://wine21.speedgabia.com/WINE_MST/TITLE/0162000/W0162520.jpg,프리바다 모스카텔 드 세투발 알마냑,Privada Moscatel de Setubal Almagnac,주정강화,12,5,5,모스카텔 드 세투발,레몬,숙성,시나몬
+https://wine21.speedgabia.com/WINE_MST/TITLE/0162000/W0162519.jpg,알람브레 모스카텔 로쏘 드 세투발,Alambre Moscatel Roxo de Setubal,주정강화,7,5,5,뮈스까 로소 쁘띠 그랑,꽃,레몬,오크통
+https://wine21.speedgabia.com/WINE_MST/TITLE/0162000/W0162518.jpg,알라브레 모스카텔 드 세투발,Alambre Moscatel de Setubal,주정강화,5,5,5,모스카텔 드 세투발,사과,오크통,파인애플
+https://wine21.speedgabia.com/WINE_MST/TITLE/0162000/W0162376.jpg,롤라이오 화이트 상그리아,Lolailo White Sangria,기타,0,3,2,블렌드,베리,사과, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0162000/W0162313.jpg,뷔스넬 깔바도스 페이도쥬,Busnel Calvados Pays D'Auge,고도주,10,1,5,블렌디드,사과,아몬드,오크통
+https://wine21.speedgabia.com/WINE_MST/TITLE/0162000/W0162145.jpg,폰세카 20년 숙성 타우니 포트,Fonseca 20 Year Old Tawny Port,주정강화,12,2,5,블렌드,사과,시나몬,오크통
+https://wine21.speedgabia.com/WINE_MST/TITLE/0162000/W0162144.jpg,폰세카 10년 숙성 타우니 포트,Fonseca 10 Year Old Tawny Port,주정강화,6,2,5,블렌드,오크통, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0162000/W0162143.jpg,폰세카 빈 27 포트,Fonseca Bin 27 Port,주정강화,4,5,5,블렌드,베리,사과,오크통
+https://wine21.speedgabia.com/WINE_MST/TITLE/0162000/W0162142.jpg,폰세카 루비 포트,Fonseca Ruby Port,주정강화,3,5,5,블렌드,베리, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0162000/W0162141.jpg,폰세카 타우니 포트,Fonseca Tawny Port,주정강화,3,5,4,블렌드,말린과일,사과,오크통
+https://wine21.speedgabia.com/WINE_MST/TITLE/0162000/W0162099.jpg,루스토 페드로 히메네즈 산 에밀리오 솔레라 레세르바,Lustau Pedro Ximenez San Emilio Solera Reserva,주정강화,5,5,5,페드로 히메네스,사과,오크통, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0162000/W0162098.jpg,루스토 올로로소 돈 누뇨 솔레라 레세르바,Lustau Oloroso Don Nuno Solera Reserva,주정강화,5,1,5,팔로미노,숙성,아몬드,오크통
+https://wine21.speedgabia.com/WINE_MST/TITLE/0162000/W0162097.jpg,루스토 이스트 인디아 솔레라,Lustau East India Solera,주정강화,3,5,5,블렌디드,숙성,오크통, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0162000/W0162096.jpg,루스토 아몬띠야도 로스 아르코스 솔레라 레세르바,Lustau Amontillado Los Arcos Solera Reserva,주정강화,3,1,5,팔로미노,사과,아몬드, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0161000/W0161815.jpg,쏜 클락 18 Year Old 토니,Thorn Clarke 18 Year Old Tawny,주정강화,13,5,5,블렌디드,사과,오크통, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0161000/W0161587.jpg,페드로 히메네즈 아나다,Pedro Ximenez Anada,주정강화,10,5,5,페드로 히메네스,레몬,말린과일,사과
+https://wine21.speedgabia.com/WINE_MST/TITLE/0161000/W0161586.jpg,페드로 히메네즈 솔레라 1927,Pedro Ximenez Solera 1927,주정강화,11,5,5,페드로 히메네스,말린과일,숙성,오크통
+https://wine21.speedgabia.com/WINE_MST/TITLE/0161000/W0161504.jpg,산다라 프리미엄 상그리아,Sandara Premium Sangria,기타,3,3,2,블렌디드,꽃,레몬,베리
+https://wine21.speedgabia.com/WINE_MST/TITLE/0161000/W0161246.jpg,빅토리아 토니,Victoria Tawny,주정강화,5,5,4,블렌디드,레몬,베리,오크통
+https://wine21.speedgabia.com/WINE_MST/TITLE/0161000/W0161072.jpg,아몬티야도 나폴레옹,Amontillado Napoleon,주정강화,6,1,5,팔로미노,숙성,시나몬,오크통
+https://wine21.speedgabia.com/WINE_MST/TITLE/0161000/W0161071.jpg,크림 이레다 데 이달고,Cream Heredad de Hidalgo,주정강화,4,5,5,블렌디드,말린과일, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0161000/W0161070.jpg,만사니아 라 히타나,Manzanilla La Gitana,주정강화,4,1,5,팔로미노,레몬,사과,시나몬
+https://wine21.speedgabia.com/WINE_MST/TITLE/0160000/W0160928.jpg,팔라치오 델 카르멘 상그리아,Palacio del Carmen Sangria,기타,1,3,2,블렌드,레몬,베리, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0160000/W0160899.jpg,주스티노스 마데이라 콜헤이타,Justino's Madeira Colheita,주정강화,15,5,5,틴타 네그라 몰레,오크통, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0160000/W0160897.jpg,주스티노스 마데이라 말바시아 10년,Justino's Madeira Malvasia 10 Years Old,주정강화,13,5,5,말바시아,오크통, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0160000/W0160896.jpg,주스티노스 마데이라 베르델호 10년,Justino's Madeira Verdelho 10 Years Old,주정강화,13,2,5,베르데호,꽃,사과,숙성
+https://wine21.speedgabia.com/WINE_MST/TITLE/0160000/W0160895.jpg,주스티노스 마데이라 보알 10년,Justino's Madeira Boal 10 Years Old,주정강화,13,4,4,보발,오크통, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0160000/W0160894.jpg,주스티노스 마데이라 올드 리저브 파인 미디엄 리치 10년,Justino's Madeira Old Reserve Fine Medium Rich 10 Years Old,주정강화,11,4,5,틴타 네그라 몰레,레몬,오크통, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0160000/W0160893.jpg,주스티노스 마데이라 올드 리저브 파인 미디엄 드라이 10년,Justino's Madeira Old Reserve Fine Medium Dry 10 Years Old,주정강화,11,2,5,틴타 네그라 몰레,레몬,숙성,아몬드
+https://wine21.speedgabia.com/WINE_MST/TITLE/0160000/W0160892.png,주스티노스 마데이라 리저브 파인 미디엄 리치 5년,Justino's Madeira Reserve Fine Medium Rich 5 Years Old,주정강화,7,4,4,틴타 네그라 몰레,레몬,숙성, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0160000/W0160891.png,주스티노스 마데이라 리저브 파인 미디엄 드라이 5년,Justino's Madeira Reserve Fine Medium Dry 5 Years Old,주정강화,7,2,5,틴타 네그라 몰레,레몬,숙성,아몬드
+https://wine21.speedgabia.com/WINE_MST/TITLE/0160000/W0160890.png,주스티노스 마데이라 파인 미디엄 리치 3년,Justino's Madeira Fine Medium Rich 3 Years Old,주정강화,5,5,5,틴타 네그라 몰레,오크통, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0160000/W0160889.png,주스티노스 마데이라 파인 미디엄 드라이 3년,Justino's Madeira Fine Medium Dry 3 Years Old,주정강화,5,2,4,틴타 네그라 몰레,레몬,사과,아몬드
+https://wine21.speedgabia.com/WINE_MST/TITLE/0160000/W0160884.jpg,우드척 홉세이션,Woodchuck Hopsation,기타,1,2,3,블렌드,레몬,사과, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0160000/W0160883.jpg,우드척 엠버,Woodchuck Amber,기타,1,3,2,블렌드,사과,오크통, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0160000/W0160841.jpg,카스트로 상그리아,Castro Sangria,기타,3,3,2,블렌드,레몬,베리, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0159000/W0159813.jpg,마드리아 상그리아,Madria Sangria,기타,0,3,2,블렌드,레몬, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0158000/W0158889.jpg,롤라이오 레드 상그리아,Lolailo Red Sangira,기타,0,3,2,템프라니요,레몬, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0158000/W0158764.jpg,다우 레이트 바틀드 빈티지 포트,Dow's Late Bottled Vintage Port,주정강화,5,5,4,블렌디드,꽃,사과,오크통
+https://wine21.speedgabia.com/WINE_MST/TITLE/0158000/W0158459.jpg,테일러 레이트 바틀드 빈티지 포트,Taylor's Late Bottled Vintage Port,주정강화,6,5,4,블렌디드,베리,오크통, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0158000/W0158458.jpg,테일러 칩 드라이 포트,Taylor's Chip Dry Port,주정강화,5,1,5,블렌디드,레몬,허브, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0157000/W0157615.jpg,블랜디스 듀크 오브 클라렌스 마데이라,Blandy's Duke of Clarence Madeira,주정강화,6,5,5,틴타 네그라 몰레,말린과일,숙성,오크통
+https://wine21.speedgabia.com/WINE_MST/TITLE/0157000/W0157614.jpg,블랜디스 10년 세르시알,Blandy's 10 Year Old 'Sercial',주정강화,15,2,5,세르시알,레몬,오크통, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0157000/W0157364.jpg,곤잘레스 비야스 넥타르,Gonzales Byass Nectar,주정강화,7,5,5,페드로 히메네스,말린과일,사과,오크통
+https://wine21.speedgabia.com/WINE_MST/TITLE/0157000/W0157363.jpg,곤잘레스 비야스 크리스티나 미디윰 드라이 올로로소,Gonzales Byass Cristina Medium Dry Oloroso,주정강화,6,3,4,블렌디드,말린과일,오크통, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0157000/W0157362.jpg,곤잘레스 비야스 알폰소 올로로소,Gonzales Byass Alfonso Oloroso,주정강화,6,4,5,팔로미노,시나몬, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0157000/W0157361.jpg,곤잘레스 비야스 솔레라 1847 크림쉐리,Gonzales Byass Solera 1847 Cream Sherry,주정강화,6,5,5,블렌디드,말린과일,사과,시나몬
+https://wine21.speedgabia.com/WINE_MST/TITLE/0157000/W0157360.jpg,곤잘레스 비야스 비냐 아베 아몬티야도,Gonzales Byass Vina AB Amontillado,주정강화,6,1,5,팔로미노,아몬드,오크통, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0155000/W0155812.jpg,돈 시몬 스파클링 상그리아,Don Simon Sparkling Sangria,기타,1,3,2,블렌드,레몬,베리,시나몬
+https://wine21.speedgabia.com/WINE_MST/TITLE/0155000/155235.jpg,오르넬라이아 엘리고 델 오르넬라이아 그라파 리제르바,Ornellaia Eligo dell'Ornellaia Grappa Riserva,고도주,15,1,5,블렌디드,사과,오크통, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0154000/154587.jpg,카를로 펠레그리노 마르살라 수페리오레 가리발디 돌체,Carlo Pellegrino Marsala Superiore Garibaldi Dolce,주정강화,4,5,5,블렌디드,시나몬,오크통, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0154000/W0154022.jpg,그라함 엑스트라 드라이 화이트 포트,Graham's Extra Dry White Port,주정강화,5,1,4,블렌디드,꽃, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0154000/W0154006.jpg,페트리아 포트 10년,Patria 10 Years Port,주정강화,9,4,4,블렌디드,오크통, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0154000/W0154005.jpg,페트리아 토니 포트,Patria Tawny Port,주정강화,4,4,5,블렌디드,시나몬,오크통, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0153000/W0153889.jpg,뻰야,Penya,주정강화,4,5,4,블렌디드,레몬,사과, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0153000/W0153859.jpg,투넬 압생트,Tunel Absinthe,고도주,7,4,5,블렌드,시나몬,허브, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0153000/W0153858.jpg,페치마이스터,Fechtmeister,고도주,6,4,3,허브,시나몬,오크통,허브
+https://wine21.speedgabia.com/WINE_MST/TITLE/0153000/W0153857.jpg,페르 케르만스 압생트,Pere Kermann's Absinthe,고도주,7,2,5,블렌드,시나몬,허브, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0153000/W0153385.jpg,토레스 10,Torres 10,고도주,4,1,5,템프라니요,시나몬, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0153000/W0153360.jpg,노니노 아마로,Nonino Amaro,고도주,11,1,5,포마스,레몬,오크통,허브
+https://wine21.speedgabia.com/WINE_MST/TITLE/0153000/W0153359.jpg,로 샤도네이 그라빠 디 노니노,Lo Chardonnay Grappa di Nonino,고도주,10,1,5,블렌디드,시나몬,아몬드,오크통
+https://wine21.speedgabia.com/WINE_MST/TITLE/0152000/W0152380.jpg,라모스 핀토 LBV 포트,Ramos Pinto LBV Port,주정강화,9,5,5,블렌디드,사과, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0152000/W0152379.jpg,라모스 핀토 타우니 포트,Ramos Pinto Tawny Port,주정강화,7,5,5,블렌디드,오크통, , 
+https://wine21.speedgabia.com/WINE_MST/IMAGE/0152000/T0152378_002.png,라모스 핀토 루비 포트,Ramos Pinto Ruby Port,주정강화,6,5,5,블렌드,베리,사과,시나몬
+https://wine21.speedgabia.com/WINE_MST/TITLE/0151000/W0151362.jpg,파이니스트 피노 셰리,Finest Fino Sherry,주정강화,2,2,4,팔로미노,레몬,사과,아몬드
+https://wine21.speedgabia.com/WINE_MST/TITLE/0151000/W0151015.jpg,이 발지니 브라운 라벨,I Balzini Brown Label,고도주,14,1,4,블렌드,오크통, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0150000/W0150771.jpg,비스타 알레그레 리저브 토니 포트,Vista Alegre Reserve Tawny Porto,주정강화,9,5,5,블렌디드,숙성,시나몬,오크통
+https://wine21.speedgabia.com/WINE_MST/TITLE/0150000/W0150630.jpg,다우 너바나 리저브 포트,Dow's Nirvana Reserve Port,주정강화,5,5,5,블렌디드,꽃,오크통, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0148000/W0148084.jpg,노미노 디스틸라토리 프루넬라 만도를라타,Nomino Distillatori Prunella Mandorlata,고도주,11,1,5,블렌드,사과,아몬드, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0146000/W0146916.jpg,폴 자불레 애네 뮈스까 봄 드 브니즈 '르 샹 데 그리올',Paul Jaboulet Aine Muscat Beaumes de Venise 'Le Chant des Griolles',주정강화,5,5,5,뮈스까,사과, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0143000/W0143611.jpg,뷔스넬 파인 깔바도스,Busnel Fine Calvados,고도주,10,1,5,사과,사과,오크통, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0143000/W0143352.jpg,알렉산더 미자,Alexander Mizar,고도주,8,1,5,산지오베제,시나몬, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0141000/W0141190.jpg,돔 브리얼 리브쟐트,Dom Brial Rivesaltes,주정강화,12,5,4,블렌디드,숙성, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0141000/W0141004.jpg,테일러 10년 올드 타니,Taylor's 10 Year Old Tawny,주정강화,9,2,4,블렌디드,아몬드, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0138000/W0138737.jpg,다우 10년 숙성 토니 포트,Dow's 10 Year Old Tawny Port,주정강화,7,4,5,블렌디드,오크통, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0138000/W0138741.jpg,다우 파인 토니 포트,Dow's Fine Tawny Port,주정강화,3,5,5,블렌디드,사과,시나몬,오크통
+https://wine21.speedgabia.com/WINE_MST/TITLE/0138000/W0138457.jpg,로얄 오포르토 타니 포트,Royal Oporto Tawny Port,주정강화,4,5,4,블렌디드,오크통, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0138000/W0138145.jpg,그라함 10년 토니 포트,Graham's Port 10 Years Tawny Port,주정강화,10,2,4,블렌디드,레몬,오크통, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0137000/W0137925.jpg,블랜디스 알바다 5년,Blandy's Alvada 5 Y.O Rich,주정강화,8,5,5,블렌디드,사과, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0137000/W0137926.jpg,블랜디스 산타루치아 스위트,Blandy's Santa Luzia Sweet,주정강화,5,5,5,틴타 네그라 몰레,숙성,오크통, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0137000/W0137459.jpg,알마덴 레드 상그리아,Almaden Red Sangria,기타,1,3,2,블렌드,레몬,베리, 

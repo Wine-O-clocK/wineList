@@ -1,75 +1,192 @@
-﻿이미지,이름,영문이름,종류,가격,당도,바디,아로마1,아로마2,아로마3,품종
-https://wine21.speedgabia.com/WINE_MST/IMAGE/0172000/T0172133_001.png,엘비이 랑그독 프렌치 로제,LVE Languedoc French Rose,로제,10,2,4,꽃,베리,사과,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0172000/W0172119.png,보데가스 페나스칼  코랄 드 페나스칼,Bodegas Penascal  Coral de Penascal,로제,3,1,2,꽃,레몬,사과,템프라니요
-https://wine21.speedgabia.com/WINE_MST/TITLE/0171000/W0171866.jpg,지게티 프리잔테 로제,Szigeti Frizzante Rose,로제,6,1,3,레몬,베리,사과,피노 누아
-https://wine21.speedgabia.com/WINE_MST/TITLE/0171000/W0171851.jpg,이스티네 로사토,Istine Rosato,로제,7,2,3,레몬,베리,사과,산지오베제
-https://wine21.speedgabia.com/WINE_MST/IMAGE/0171000/T0171323_001.png,그르기치 힐스 이스테이트 나파 밸리 로제,Grgich Hills Estate Napa Valley Rose,로제,7,1,3,꽃,베리,사과,블렌디드
-https://wine21.speedgabia.com/WINE_MST/IMAGE/0171000/T0171234_001.png,팍스톤 나우 로제,Paxton Now Rose,로제,6,1,2,꽃,돌,레몬,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0170000/W0170499.png,판티니 칼라렌타 로사토 메를로,Fantini Calalenta Rosato Merlot,로제,7,1,2,꽃,돌,베리,메를로
-https://wine21.speedgabia.com/WINE_MST/TITLE/0170000/W0170452.png,플라네타 로제,Planeta Rose,로제,2,2,2,꽃,베리,사과,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0170000/W0170332.png,페마르 그랑 아파소 프리미티보 로사토,Femar Gran Appasso Primitivo Rosato,로제,4,1,3,꽃,베리,허브,프리미티보
-https://wine21.speedgabia.com/WINE_MST/TITLE/0170000/W0170142.png,아소르스 뷸카니코 로제,Azores Vulcanico Rose,로제,4,1,2,꽃,돌,레몬,블렌드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0170000/W0170085.png,라스 비노 알비노 피앤오,L.A.S. Vino Albino PNO,로제,15,1,2,베리,숙성,오크통,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0169000/W0169965.png,무똥 까데 레 빠셀 로제,Mouton Cadet Les Parcelles Rose,로제,3,1,2,레몬,아몬드,파인애플,메를로
-https://wine21.speedgabia.com/WINE_MST/IMAGE/0169000/T0169866_001.png,도멘 몽로즈 솔리스 루멍 로제,Domaine Montrose Solis Lumen Rose,로제,4,1,2,돌,베리,허브,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0169000/W0169299.png,프렌치 비치스 쥬시 레드,French Beaches Juicy Red,로제,4,1,2,꽃,베리,사과,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0169000/W0169015.png,프레스코발디 알리에 로제,Frescobaldi Alie Rose,로제,4,1,2,꽃,레몬,사과,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0169000/W0169011.png,깔멜 앤 조셉 빌라 블랑쉬 그르나쉬 로제,Calmel & Joseph Villa Blanche Grenache Rose,로제,2,1,3,꽃,레몬,사과,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0168000/W0168939.png,에스탕동 제니스,Estandon Zenith,로제,2,1,2,꽃,사과,시나몬,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0168000/W0168936.png,에스탕동 리플렛,Estandon Reflet,로제,2,1,2,꽃,레몬,오크통,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0168000/W0168875.png,치비테 라스 핀카스 로제 배럴 숙성,Chivite Las Fincas Rosado Barrica,로제,5,1,3,꽃,레몬,사과,가르나차
-https://wine21.speedgabia.com/WINE_MST/IMAGE/0168000/T0168767_001.png,퓨리티 로제,Purity Rose,로제,12,1,4,레몬,베리,오크통,무르베드르
-https://wine21.speedgabia.com/WINE_MST/TITLE/0168000/W0168707.png,레오파드 립 컬리나리아 뮈스카,Leopard's Leap Culinaria Muscat,로제,5,3,3,꽃,사과,파인애플,뮈스까
-https://wine21.speedgabia.com/WINE_MST/TITLE/0168000/W0168705.png,레오파드 립 샤르도네 피노누아,Leopard's Leap Chardonnay Pinot Noir,로제,4,1,2,레몬,베리,사과,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0168000/W0168652.png,캐논볼 엔젤스 카우보이즈 로제,Cannonball Angels & Cowboys Rose,로제,5,1,2,꽃,사과,파인애플,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0168000/W0168560.png,루센티 피오코 디 로제,Lusenti Fiocco di Rose,로제,5,1,2,꽃,돌,사과,피노 네로
-https://wine21.speedgabia.com/WINE_MST/TITLE/0168000/W0168478.png,라몬 빌바오 라롬바 핀카 라린데,Ramon Bilbao Lalomba Finca Lalinde,로제,8,1,2,레몬,사과,파인애플,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0168000/W0168334.png,11th 아워 셀러즈 화이트 진판델,11th Hour Cellars White Zinfandel,로제,3,3,2,레몬,말린과일,사과,진판델
-https://wine21.speedgabia.com/WINE_MST/TITLE/0168000/W0168080.png,PWS 래번 로제 러시안 리버 벨리,PWS Raeburn Rose Russian River Valley,로제,8,1,2,꽃,베리,파인애플,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0167000/W0167162.png,까스텔 미미 로제 드 불보아카,Castel MiMi Rose de Bulboaca,로제,7,1,2,꽃,레몬,말린과일,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0167000/W0167121.jpg,샤또 푸에슈오 아르갈리 로제,Chateau Puech Haut Argali Rose,로제,9,1,2,레몬,사과,숙성,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0167000/W0167097.jpg,마리에따 로제,Marietta Rose,로제,3,1,3,레몬,베리,사과,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0166000/W0166840.jpg,보니 둔 뱅 그리 드 시거,Bonny Doon Vin Gris de Cigare,로제,3,1,2,꽃,베리,크로와상,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0166000/W0166749.jpg,에라스모 로제 드 무르베드르,Erasmo Rose de Mourvedre,로제,5,1,2,꽃,레몬,베리,무르베드르
-https://wine21.speedgabia.com/WINE_MST/IMAGE/0166000/T0166732_001.png,제라르 베르트랑 햄튼 워터 로제,Gerard Bertrand Hampton Water Rose,로제,9,1,3,꽃,돌,레몬,블렌디드
-https://wine21.speedgabia.com/WINE_MST/IMAGE/0166000/T0166171_003.png,카사 로호 하루,Casa Rojo Haru,로제,6,1,2,꽃,베리,사과,블렌디드
-https://wine21.speedgabia.com/WINE_MST/IMAGE/0165000/T0165709_001.png,보데가스 루손 에이트 메세스,Bodegas Luzon 8 Meses,로제,3,1,4,베리,숙성,시나몬,가르나차 틴토레라
-https://wine21.speedgabia.com/WINE_MST/TITLE/0164000/W0164787.jpg,줄리아스 다즐 로제,Julia's Dazzle Rose,로제,5,1,3,레몬,베리,파인애플,피노 그리
-https://wine21.speedgabia.com/WINE_MST/TITLE/0164000/W0164514.jpg,샤또 푸에슈오 프레스티지 로제,Chateau Puech Haut Prestige Rose,로제,9,1,3,레몬,베리,사과,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0164000/W0164245.png,찰스 & 찰스 로제,Charles & Charles Rose,로제,6,1,3,꽃,베리,허브,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0164000/W0164151.png,마레농 페투라,Marrenon Petula,로제,4,1,1,꽃,베리,파인애플,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0163000/W0163033.jpg,칠릴리스 테오페트라 에스테이트 로제,Tsililis Theopetra Estate Rose,로제,6,1,3,꽃,베리,시나몬,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0162000/W0162386.jpg,프레시넷 미아 로제,Frexienet Mia Rose,로제,1,1,3,꽃,베리,사과,보발
-https://wine21.speedgabia.com/WINE_MST/TITLE/0162000/W0162053.jpg,모나스테리오 가르나차 로제,Monasterio Garnacha Rose,로제,2,2,3,돌,베리,시나몬,가르나차
-https://wine21.speedgabia.com/WINE_MST/TITLE/0161000/W0161972.png,도멘 라파주 아무르 로제,Domaine Lafage Amour Rose,로제,2,4,2,꽃,레몬,사과,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0161000/W0161461.png,카판넬레 로사토,Capannelle Rosato,로제,7,1,3,꽃,베리,사과,산지오베제
-https://wine21.speedgabia.com/WINE_MST/TITLE/0161000/W0161440.jpg,도멘 오뜨 바이 오뜨 로제,Domaines Ott BY OTT Rose,로제,6,1,3,레몬,사과,시나몬,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0161000/W0161387.jpg,핑크 페고,Chateau Pegau Rose Pink Pegau,로제,4,1,3,꽃,돌,레몬,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0161000/W0161223.png,카퍼 릿지 화이트 진판델,Copper Ridge White Zinfandel,로제,0,3,2,꽃,베리,사과,진판델
-https://wine21.speedgabia.com/WINE_MST/TITLE/0161000/W0161013.jpg,프란시스 포드 코폴라 소피아 로제,Francis Ford Coppola Sofia Rose,로제,9,1,2,꽃,베리,사과,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0161000/W0161005.jpg,레 오 드 스미스 로제,Les Hauts de Smith Rose,로제,8,1,3,꽃,레몬,베리,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0159000/W0159194.jpg,샤또 리카르델 비넬라크로아 로제,Chateau Ricardelle Vignelacroix Rose,로제,7,1,3,돌,레몬,사과,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0156000/W0156993.png,몬테스 슈럽,Montes Cherub,로제,3,1,2,꽃,레몬,베리,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0156000/W0156089.jpg,더 롱 독 로제,The Long Dog Rose,로제,2,1,2,꽃,레몬,베리,시라/쉬라즈
-https://wine21.speedgabia.com/WINE_MST/TITLE/0155000/W0155966.jpg,그랑 세르 따벨 '라 로제 에메',Grandes Serres Tavel 'La Rose d'Aimee',로제,5,1,3,꽃,레몬,사과,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0155000/W0155937.png,제라르 베르트랑 꼬뜨 로즈 로제,Gerard Bertrand Cote des Roses Rose,로제,3,1,3,꽃,베리,사과,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0155000/W0155926.jpg,도팡 꼬뜨 뒤 론 리저브 로제,Les Dauphins Cotes du Rhone Reserve Rose,로제,3,1,3,말린과일,베리,사과,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0155000/W0155174.jpg,로카 디 몬테그로시 로사토,Rocca Di Montegrossi Rosato,로제,6,1,2,꽃,레몬,베리,산지오베제
-https://wine21.speedgabia.com/WINE_MST/TITLE/0155000/W0155035.png,도멘 라포르트 르 부케 로제,Domaine Laporte Le bouquet Rose de PN,로제,4,1,2,꽃,베리,사과,피노 누아
-https://wine21.speedgabia.com/WINE_MST/TITLE/0154000/W0154561.jpg,돈나푸가타 루메라 로자토,Donnafugata Lumera Rosato,로제,4,1,3,꽃,말린과일,베리,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0154000/W0154558.jpg,마레농 멀롯 로제,Marrenon Merlot Rose,로제,2,2,2,꽃,레몬,파인애플,메를로
-https://wine21.speedgabia.com/WINE_MST/TITLE/0153000/W0153974.jpg,도멘 뮈르뮈리움 르 르뚜르 로제,Domaine Mur Mur Ium Le Retour Rose,로제,6,1,2,베리,사과,시나몬,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0153000/W0153921.jpg,샤또 데스클랑 르 뿌쌍 로제,Chateau d'Esclans Le Poussin Rose,로제,3,1,3,꽃,베리,숙성,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0153000/W0153507.jpg,샤또 데스클랑,Chateau d'Esclans,로제,8,1,3,레몬,베리,사과,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0153000/W0153506.jpg,샤또 데스클랑 레 클랑,Chateau d'Esclans Les Clans,로제,14,1,3,돌,베리,사과,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0153000/W0153317.jpg,클라랑스 딜롱 클라랑델 로제,Clarence Dillon Clarendelle Rose,로제,3,2,2,꽃,레몬,베리,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0153000/W0153018.png,도멘 몽로즈,Domaine Montrose,로제,1,1,2,베리,사과,파인애플,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0152000/152688.jpg,레드트리 화이트 진판델,Redtree White Zinfandel,로제,3,3,2,말린과일,베리,사과,진판델
-https://wine21.speedgabia.com/WINE_MST/TITLE/0152000/W0152353.jpg,그랜트 버지 모스카토 로사,Grant Burge Moscato Rosa,로제,4,4,2,꽃,시나몬,파인애플,모스카토 로사
-https://wine21.speedgabia.com/WINE_MST/TITLE/0151000/W0151260.jpg,브루몽 따나 시라 메를로 로제,BruMont Tannat Syrah Merlot Rose,로제,3,1,3,꽃,베리,사과,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0151000/W0151233.jpg,두르뜨 뉘메로 엥 로제,Dourthe Numero 1 Rose,로제,5,1,2,꽃,레몬,사과,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0150000/W0150368.png,니더버그 로제,Nederburg Rose,로제,2,2,3,꽃,레몬,베리,피노타주
-https://wine21.speedgabia.com/WINE_MST/TITLE/0147000/W0147455.jpg,체루비노 발상지아코모 모스까뗄 데 발렌시아 로제,Cherubino Valsangiacomo Moscatel de Valencia Rose,로제,0,4,3,꽃,레몬,시나몬,모스카텔
-https://wine21.speedgabia.com/WINE_MST/TITLE/0146000/W0146584.jpg,힐링어 스몰힐 로제,Small Hill Rose,로제,8,2,2,꽃,베리,숙성,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0144000/W0144874.jpg,토레스 데 카스타,Torres De Casta,로제,1,2,2,말린과일,베리,오크통,블렌디드
-https://wine21.speedgabia.com/WINE_MST/TITLE/0137000/W0137355.jpg,블루 넌 핑크 아이스,Blue Nun Pink Icewein,로제,6,4,4,레몬,사과,숙성,블렌디드
+﻿이미지,이름,영문이름,종류,가격,당도,바디,품종,아로마1,아로마2,아로마3
+https://wine21.speedgabia.com/WINE_MST/TITLE/0172000/W0172247.png,낙낙 로제,Knock Knock Rose,로제,2,1,2,보발,꽃, , 
+https://wine21.speedgabia.com/WINE_MST/IMAGE/0172000/T0172133_001.png,엘비이 랑그독 프렌치 로제,LVE Languedoc French Rose,로제,10,2,4,블렌디드,꽃,베리,사과
+https://wine21.speedgabia.com/WINE_MST/TITLE/0172000/W0172119.png,보데가스 페나스칼  코랄 드 페나스칼,Bodegas Penascal  Coral de Penascal,로제,3,1,2,템프라니요,꽃,레몬,사과
+https://wine21.speedgabia.com/WINE_MST/TITLE/0171000/W0171866.jpg,지게티 프리잔테 로제,Szigeti Frizzante Rose,로제,6,1,3,피노 누아,레몬,베리,사과
+https://wine21.speedgabia.com/WINE_MST/TITLE/0171000/W0171851.jpg,이스티네 로사토,Istine Rosato,로제,7,2,3,산지오베제,레몬,베리,사과
+https://wine21.speedgabia.com/WINE_MST/TITLE/0171000/W0171581.png,파고 드 아일레스 L 드 아일레스,Pago de Ayles L de Ayles,로제,3,1,2,블렌디드,베리,허브, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0171000/W0171564.png,일 팔라지오 뉴 데이 로사토,Il Palagio New Day Rosato,로제,3,1,3,산지오베제,꽃,사과, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0171000/W0171392.png,보야 로제,Boya Rose,로제,5,1,3,블렌디드,레몬, , 
+https://wine21.speedgabia.com/WINE_MST/IMAGE/0171000/T0171323_001.png,그르기치 힐스 이스테이트 나파 밸리 로제,Grgich Hills Estate Napa Valley Rose,로제,7,1,3,블렌디드,꽃,베리,사과
+https://wine21.speedgabia.com/WINE_MST/TITLE/0171000/W0171238.png,까잘 가르시아 로제,Casal Garcia Rose,로제,3,1,2,블렌디드,베리, , 
+https://wine21.speedgabia.com/WINE_MST/IMAGE/0171000/T0171234_001.png,팍스톤 나우 로제,Paxton Now Rose,로제,6,1,2,블렌디드,꽃,돌,레몬
+https://wine21.speedgabia.com/WINE_MST/TITLE/0170000/W0170776.png,시로 피노 누아 로제,Cirro Pinot Noir Rose,로제,5,2,2,피노 누아,레몬,사과, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0170000/W0170650.png,비네롱 카탈랑스 포시즌 카베르네 로제,Vignerons Catalans Quatre Saisons Rose,로제,5,1,2,카베르네 소비뇽,베리, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0170000/W0170644.png,비네롱 카탈랑스 오뜨 꾸튬 로제,Vignerons Catalans Haute Coutume Rose,로제,8,1,2,블렌디드,꽃,사과, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0170000/W0170640.png,비네롱 카탈랑스 앙트르 꼬빵 로제,Vignerons Catalans Entre Copains Rose,로제,4,1,2,블렌디드,꽃, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0170000/W0170626.png,샤또 르 부이 뀌베 꽁퓌덩스 로제,Chateau le Bouis Cuvee Confidences Rose,로제,7,1,2,블렌디드,꽃,사과, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0170000/W0170499.png,판티니 칼라렌타 로사토 메를로,Fantini Calalenta Rosato Merlot,로제,7,1,2,메를로,꽃,돌,베리
+https://wine21.speedgabia.com/WINE_MST/TITLE/0170000/W0170452.png,플라네타 로제,Planeta Rose,로제,2,2,2,블렌디드,꽃,베리,사과
+https://wine21.speedgabia.com/WINE_MST/TITLE/0170000/W0170332.png,페마르 그랑 아파소 프리미티보 로사토,Femar Gran Appasso Primitivo Rosato,로제,4,1,3,프리미티보,꽃,베리,허브
+https://wine21.speedgabia.com/WINE_MST/TITLE/0170000/W0170323.png,메종 카스텔 로제 당주,Maison Castel Rose d'Anjou,로제,3,1,2,블렌디드,레몬, , 
+https://wine21.speedgabia.com/WINE_MST/IMAGE/0170000/T0170194_002.png,마퀴스 그랑 리제르바 로제,Maquis Gran Reserva Rose,로제,5,1,2,블렌디드,베리,사과, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0170000/W0170142.png,아소르스 뷸카니코 로제,Azores Vulcanico Rose,로제,4,1,2,블렌드,꽃,돌,레몬
+https://wine21.speedgabia.com/WINE_MST/TITLE/0170000/W0170085.png,라스 비노 알비노 피앤오,L.A.S. Vino Albino PNO,로제,15,1,2,블렌디드,베리,숙성,오크통
+https://wine21.speedgabia.com/WINE_MST/TITLE/0170000/W0170075.png,테누타 살바테라 팔리아 로제,Tenuta Salvaterra Falia Rose,로제,2,1,2,코르비나,꽃,베리, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0170000/W0170069.png,보데가스 라 푸리시마 캄풀러스 엘 모레노 레드,Bodegas La Purisima Campules El Moreno Red,로제,1,1,4,모나스트렐,베리,사과, 
+https://wine21.speedgabia.com/WINE_MST/IMAGE/0170000/T0170035_002.png,스칼렛 레이디버드 플뢰리외 로제,Scarlet Ladybird Fluerieu Rose,로제,5,1,2,블렌디드,꽃, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0169000/W0169965.png,무똥 까데 레 빠셀 로제,Mouton Cadet Les Parcelles Rose,로제,3,1,2,메를로,레몬,아몬드,파인애플
+https://wine21.speedgabia.com/WINE_MST/IMAGE/0169000/T0169866_001.png,도멘 몽로즈 솔리스 루멍 로제,Domaine Montrose Solis Lumen Rose,로제,4,1,2,블렌디드,돌,베리,허브
+https://wine21.speedgabia.com/WINE_MST/TITLE/0169000/W0169810.png,복 로제 꾸베,Bock Rose Cuvee,로제,4,1,2,블렌디드,베리, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0169000/W0169332.png,도멘 뒤 프레 클로 로제 당주,Domaine du Pre Clos Rose D'Anjou,로제,4,1,2,블렌디드,베리,사과, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0169000/W0169299.png,프렌치 비치스 쥬시 레드,French Beaches Juicy Red,로제,4,1,2,블렌디드,꽃,베리,사과
+https://wine21.speedgabia.com/WINE_MST/TITLE/0169000/W0169015.png,프레스코발디 알리에 로제,Frescobaldi Alie Rose,로제,4,1,2,블렌디드,꽃,레몬,사과
+https://wine21.speedgabia.com/WINE_MST/TITLE/0169000/W0169011.png,깔멜 앤 조셉 빌라 블랑쉬 그르나쉬 로제,Calmel & Joseph Villa Blanche Grenache Rose,로제,2,1,3,블렌디드,꽃,레몬,사과
+https://wine21.speedgabia.com/WINE_MST/TITLE/0168000/W0168943.png,사티스 데이 로사도,Satis dei Rosado,로제,0,2,3,템프라니요,베리,파인애플, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0168000/W0168939.png,에스탕동 제니스,Estandon Zenith,로제,2,1,2,블렌디드,꽃,사과,시나몬
+https://wine21.speedgabia.com/WINE_MST/TITLE/0168000/W0168938.png,에스탕동 헤리티지,Estandon Heritage,로제,2,1,2,블렌디드,사과, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0168000/W0168936.png,에스탕동 리플렛,Estandon Reflet,로제,2,1,2,블렌디드,꽃,레몬,오크통
+https://wine21.speedgabia.com/WINE_MST/TITLE/0168000/W0168877.png,피노소 코스타 알리칸테 로제,Pinoso Costa Alicante Rosado,로제,1,1,3,모나스트렐,꽃,베리, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0168000/W0168875.png,치비테 라스 핀카스 로제 배럴 숙성,Chivite Las Fincas Rosado Barrica,로제,5,1,3,가르나차,꽃,레몬,사과
+https://wine21.speedgabia.com/WINE_MST/TITLE/0168000/W0168874.png,치비테 라스 핀카스 로제,Chivite Las Fincas Rosado,로제,2,1,3,가르나차,베리,사과, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0168000/W0168839.png,마스카 델 타코 로시 피노 네로 로사토,Masca del Tacco “ Ro'Si ” Pinot Nero Rosato,로제,3,1,2,피노 네로,돌,베리, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0168000/W0168831.png,레알 꼼빠니아 로사도,Real Compania Rosado,로제,2,1,2,블렌디드,베리,시나몬, 
+https://wine21.speedgabia.com/WINE_MST/IMAGE/0168000/T0168796_003.png,핀카 바카라 로제,Finca Bacara Rose,로제,4,1,2,가르나차,베리, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0168000/W0168783.png,산 살바토레 베테레 패스툼 알리아니코 로사토,San Salvatore Vetere Paestum Aglianico Rosato,로제,6,1,2,알리아니코,꽃,베리, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0168000/W0168768.png,퓨리티 스트로베리 데이즈 지에스엠,Purity Strawberry Daze GSM,로제,13,1,2,블렌디드,사과, , 
+https://wine21.speedgabia.com/WINE_MST/IMAGE/0168000/T0168767_001.png,퓨리티 로제,Purity Rose,로제,12,1,4,무르베드르,레몬,베리,오크통
+https://wine21.speedgabia.com/WINE_MST/TITLE/0168000/W0168764.png,마리오니 아우레오 로제 소노마 마운틴,Marioni Aureo Rose Sonoma Mountain,로제,12,1,3,블렌디드,파인애플, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0168000/W0168707.png,레오파드 립 컬리나리아 뮈스카,Leopard's Leap Culinaria Muscat,로제,5,3,3,뮈스까,꽃,사과,파인애플
+https://wine21.speedgabia.com/WINE_MST/TITLE/0168000/W0168705.png,레오파드 립 샤르도네 피노누아,Leopard's Leap Chardonnay Pinot Noir,로제,4,1,2,블렌디드,레몬,베리,사과
+https://wine21.speedgabia.com/WINE_MST/TITLE/0168000/W0168652.png,캐논볼 엔젤스 카우보이즈 로제,Cannonball Angels & Cowboys Rose,로제,5,1,2,블렌디드,꽃,사과,파인애플
+https://wine21.speedgabia.com/WINE_MST/TITLE/0168000/W0168560.png,루센티 피오코 디 로제,Lusenti Fiocco di Rose,로제,5,1,2,피노 네로,꽃,돌,사과
+https://wine21.speedgabia.com/WINE_MST/TITLE/0168000/W0168478.png,라몬 빌바오 라롬바 핀카 라린데,Ramon Bilbao Lalomba Finca Lalinde,로제,8,1,2,블렌디드,레몬,사과,파인애플
+https://wine21.speedgabia.com/WINE_MST/TITLE/0168000/W0168468.png,프로버브 로제,Proverb Rose,로제,1,1,2,블렌디드,돌,베리, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0168000/W0168334.png,11th 아워 셀러즈 화이트 진판델,11th Hour Cellars White Zinfandel,로제,3,3,2,진판델,레몬,말린과일,사과
+https://wine21.speedgabia.com/WINE_MST/TITLE/0168000/W0168305.png,산디 라지 파 와인클럽 캔디 플로스 로제,Sandhi Raj Parr Wine Club Candy Floss Rosé,로제,10,1,2,피노 누아,레몬, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0168000/W0168174.png,베린저 메인&바인 화이트 진판델,Beringer Main&Vine White Zinfandel,로제,3,3,3,진판델,레몬,파인애플, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0168000/W0168109.png,JP 슈네 딜리셔스 로제,JP Chenet Delicious Rose,로제,1,3,3,블렌디드,베리, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0168000/W0168080.png,PWS 래번 로제 러시안 리버 벨리,PWS Raeburn Rose Russian River Valley,로제,8,1,2,블렌디드,꽃,베리,파인애플
+https://wine21.speedgabia.com/WINE_MST/TITLE/0167000/W0167717.png,로쉐 마제 로제,Roche Mazet Rose,로제,2,1,2,블렌디드,베리,사과, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0167000/W0167681.png,아르지올라스 셀라 로리,Argiolas Serra Lori,로제,3,1,3,블렌디드,꽃,베리, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0167000/W0167442.png,페트라 징가리 로사토,Petra Zingari Rosato,로제,4,1,2,블렌디드,사과,시나몬, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0167000/W0167436.png,일 보로 로제 델 보로,Il Borro Rose del Borro,로제,3,1,3,산지오베제,꽃, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0167000/W0167162.png,까스텔 미미 로제 드 불보아카,Castel MiMi Rose de Bulboaca,로제,7,1,2,블렌디드,꽃,레몬,말린과일
+https://wine21.speedgabia.com/WINE_MST/TITLE/0167000/W0167121.jpg,샤또 푸에슈오 아르갈리 로제,Chateau Puech Haut Argali Rose,로제,9,1,2,블렌디드,레몬,사과,숙성
+https://wine21.speedgabia.com/WINE_MST/TITLE/0167000/W0167097.jpg,마리에따 로제,Marietta Rose,로제,3,1,3,블렌디드,레몬,베리,사과
+https://wine21.speedgabia.com/WINE_MST/TITLE/0167000/W0167042.jpg,에스탕동 인솔랑스,Estandon Insolence,로제,2,1,2,블렌디드,오크통, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0167000/W0167033.jpg,오텔라 로제스로제스,Ottella RosesRoses,로제,8,1,3,블렌디드,돌,사과, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0167000/W0167015.jpg,리머릭 레인 로제,Limerick Lane Rose,로제,5,1,2,블렌디드,레몬,베리, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0166000/W0166848.jpg,아이들와일드 플로라 파우나 로제,Idlewild Flora Fauna Rose,로제,8,1,3,블렌디드,레몬,허브, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0166000/W0166840.jpg,보니 둔 뱅 그리 드 시거,Bonny Doon Vin Gris de Cigare,로제,3,1,2,블렌디드,꽃,베리,크로와상
+https://wine21.speedgabia.com/WINE_MST/TITLE/0166000/W0166749.jpg,에라스모 로제 드 무르베드르,Erasmo Rose de Mourvedre,로제,5,1,2,무르베드르,꽃,레몬,베리
+https://wine21.speedgabia.com/WINE_MST/IMAGE/0166000/T0166732_001.png,제라르 베르트랑 햄튼 워터 로제,Gerard Bertrand Hampton Water Rose,로제,9,1,3,블렌디드,꽃,돌,레몬
+https://wine21.speedgabia.com/WINE_MST/TITLE/0166000/W0166666.jpg,벤드 화이트 진판델,Bend White Zinfandel,로제,1,3,3,진판델,베리,시나몬, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0166000/W0166381.jpg,아카데미아 로제 스푸만테,Accademia Rose Spumante,로제,5,2,2,블렌디드,꽃,사과, 
+https://wine21.speedgabia.com/WINE_MST/IMAGE/0166000/T0166171_003.png,카사 로호 하루,Casa Rojo Haru,로제,6,1,2,블렌디드,꽃,베리,사과
+https://wine21.speedgabia.com/WINE_MST/TITLE/0166000/W0166120.jpg,크리코바 크리세코 브뤼 로제,Cricova Crisecco Brut Rose,로제,3,1,3,블렌디드,꽃,사과, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0165000/W0165934.jpg,보시오 트로피칼 모스카토 자몽,Bosio Tropical Moscato Grapefruit,로제,2,4,2,모스카토,꽃,레몬, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0165000/W0165914.jpg,르 뽀또 로제,Le Poteau Rose,로제,4,1,2,블렌디드,꽃,허브, 
+https://wine21.speedgabia.com/WINE_MST/IMAGE/0165000/T0165709_001.png,보데가스 루손 에이트 메세스,Bodegas Luzon 8 Meses,로제,3,1,4,가르나차 틴토레라,베리,숙성,시나몬
+https://wine21.speedgabia.com/WINE_MST/TITLE/0165000/W0165615.jpg,비네티 델 불투레 피폴리 로자또,Vigneti del Vulture Pipoli Rosato,로제,5,1,3,알리아니코,꽃,베리, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0164000/W0164787.jpg,줄리아스 다즐 로제,Julia's Dazzle Rose,로제,5,1,3,피노 그리,레몬,베리,파인애플
+https://wine21.speedgabia.com/WINE_MST/TITLE/0164000/W0164753.jpg,마레농 베르상 노드,Marrenon Versant Nord,로제,3,1,3,블렌디드,돌,사과, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0164000/W0164548.jpg,세뇨리오 드 이니에스타 로사도 보발,Senorio de Iniesta Rosado Bobal,로제,2,1,3,보발,베리, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0164000/W0164514.jpg,샤또 푸에슈오 프레스티지 로제,Chateau Puech Haut Prestige Rose,로제,9,1,3,블렌디드,레몬,베리,사과
+https://wine21.speedgabia.com/WINE_MST/TITLE/0164000/W0164245.png,찰스 & 찰스 로제,Charles & Charles Rose,로제,6,1,3,블렌디드,꽃,베리,허브
+https://wine21.speedgabia.com/WINE_MST/TITLE/0164000/W0164151.png,마레농 페투라,Marrenon Petula,로제,4,1,1,블렌디드,꽃,베리,파인애플
+https://wine21.speedgabia.com/WINE_MST/TITLE/0163000/W0163747.jpg,소호 핑크 쉽 로제,Soho Pink Sheep Rose,로제,6,1,2,피노 누아,꽃,사과, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0163000/W0163262.jpg,르 쁘띠 쿠들리스 로제,Le Petit Coudoulis White Rose,로제,5,1,3,블렌디드,베리, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0163000/W0163098.jpg,모스케토 핑크,Mosketto Pink,로제,2,4,2,블렌디드,꽃,베리, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0163000/W0163083.jpg,포지오 알 테소로 카시오페아 로사토,Poggio al Tesoro Cassiopea Rosato,로제,7,1,2,블렌디드,꽃,베리, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0163000/W0163033.jpg,칠릴리스 테오페트라 에스테이트 로제,Tsililis Theopetra Estate Rose,로제,6,1,3,블렌디드,꽃,베리,시나몬
+https://wine21.speedgabia.com/WINE_MST/TITLE/0162000/W0162879.jpg,맥매니스 로제,Mcmanis Rose,로제,7,1,2,피노 누아,베리, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0162000/W0162831.jpg,사쿠라 와인,Sakura Wine,로제,5,3,2,블렌디드,꽃, , 
+https://wine21.speedgabia.com/WINE_MST/IMAGE/0162000/T0162697_002.png,까스따뇨 로제 세미 스위트,Castano Rose Semi Sweet,로제,3,3,2,모나스트렐,베리, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0162000/W0162677.jpg,덕혼 디코이 로제,Duckrhon Decoy Rose,로제,7,1,2,블렌디드,레몬,베리, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0162000/W0162516.jpg,랜서스 로제,Lancers Rose,로제,3,2,2,블렌디드,레몬, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0162000/W0162476.jpg,베리 브라더스 & 러드 프로방스 로제,Berry Bros. & Rudd Provence Rose,로제,1,1,2,블렌디드,꽃,베리, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0162000/W0162467.jpg,베리 브라더스 & 러드 더 머천트 로제,Berry Bros. & Rudd The Merchant's Rose,로제,1,1,2,가르나차,베리, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0162000/W0162386.jpg,프레시넷 미아 로제,Frexienet Mia Rose,로제,1,1,3,보발,꽃,베리,사과
+https://wine21.speedgabia.com/WINE_MST/TITLE/0162000/W0162078.jpg,마티아즈 츠바이겔트 로제,H.Matthias Zweigelt Rose Bio,로제,6,1,3,츠바이겔트,숙성, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0162000/W0162076.jpg,피치니 메모로 로사토,Piccini Memoro Rosato,로제,0,2,2,블렌디드,베리,허브, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0162000/W0162053.jpg,모나스테리오 가르나차 로제,Monasterio Garnacha Rose,로제,2,2,3,가르나차,돌,베리,시나몬
+https://wine21.speedgabia.com/WINE_MST/TITLE/0161000/W0161972.png,도멘 라파주 아무르 로제,Domaine Lafage Amour Rose,로제,2,4,2,블렌디드,꽃,레몬,사과
+https://wine21.speedgabia.com/WINE_MST/TITLE/0161000/W0161879.jpg,발렌시소 로사도,Valenciso Rosado,로제,6,1,2,템프라니요,사과,파인애플, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0161000/W0161837.jpg,선키스트 스위트 로제,Sunkissed Sweet Rose,로제,2,4,2,블렌디드,꽃,베리, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0161000/W0161604.jpg,렉셀렁스 데 뮈레르,L'Excellence des Muraires,로제,10,1,3,블렌디드,레몬,베리, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0161000/W0161603.jpg,레 뮈레르 두쓰 비,Les Muraires Douce Vie,로제,5,1,3,블렌디드,베리, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0161000/W0161461.png,카판넬레 로사토,Capannelle Rosato,로제,7,1,3,산지오베제,꽃,베리,사과
+https://wine21.speedgabia.com/WINE_MST/TITLE/0161000/W0161440.jpg,도멘 오뜨 바이 오뜨 로제,Domaines Ott BY OTT Rose,로제,6,1,3,블렌디드,레몬,사과,시나몬
+https://wine21.speedgabia.com/WINE_MST/TITLE/0161000/W0161420.jpg,도멘 사라고즈,Domaine Sarragousse,로제,3,2,3,블렌디드,베리,시나몬, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0161000/W0161387.jpg,핑크 페고,Chateau Pegau Rose Pink Pegau,로제,4,1,3,블렌디드,꽃,돌,레몬
+https://wine21.speedgabia.com/WINE_MST/TITLE/0161000/W0161223.png,카퍼 릿지 화이트 진판델,Copper Ridge White Zinfandel,로제,0,3,2,진판델,꽃,베리,사과
+https://wine21.speedgabia.com/WINE_MST/TITLE/0161000/W0161220.jpg,베어플래그 일렉트릭 로제,BearFlag Eletric Rose,로제,1,3,2,진판델,베리, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0161000/W0161014.jpg,레 클레르꼼떼 로제 당주,Les Claircomtes Rose d'Anjou,로제,3,1,2,블렌디드,시나몬,허브, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0161000/W0161013.jpg,프란시스 포드 코폴라 소피아 로제,Francis Ford Coppola Sofia Rose,로제,9,1,2,블렌디드,꽃,베리,사과
+https://wine21.speedgabia.com/WINE_MST/TITLE/0161000/W0161006.jpg,로제 드 지스꾸르,Rose de Giscours,로제,6,1,2,카베르네 소비뇽,베리, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0161000/W0161005.jpg,레 오 드 스미스 로제,Les Hauts de Smith Rose,로제,8,1,3,블렌디드,꽃,레몬,베리
+https://wine21.speedgabia.com/WINE_MST/TITLE/0160000/W0160852.jpg,디오라마 컬렉션 피노 누아 로제,Diorama Collection Pinot Noir Rose,로제,5,1,2,피노 누아,베리,시나몬, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0160000/W0160768.jpg,아카키스 로제,Akakies Rose,로제,3,1,3,시노마브로,베리, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0160000/W0160725.jpg,리라 투 로제스,Rira 2 Roses,로제,5,1,4,블렌디드,꽃,베리, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0159000/W0159865.png,캐년 로드 화이트 진판델,Canyon Road White Zinfandel,로제,1,3,2,진판델,베리, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0159000/W0159693.jpg,보데가스 라 푸리시마 로사도,Bodegas La Purisima Rosado,로제,2,1,3,블렌디드,베리, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0159000/W0159194.jpg,샤또 리카르델 비넬라크로아 로제,Chateau Ricardelle Vignelacroix Rose,로제,7,1,3,블렌디드,돌,레몬,사과
+https://wine21.speedgabia.com/WINE_MST/TITLE/0159000/W0159049.jpg,엠 로제,M Rose,로제,2,4,2,블렌디드,베리, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0158000/W0158523.png,로버트 몬다비 우드브릿지 화이트 진판델,Robert Mondavi Woodbridge White Zinfandel,로제,3,3,2,블렌디드,레몬,베리, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0157000/W0157596.jpg,샤또 드 페슬 로제 당주,Chateau de Fesles Rose d'Anjou,로제,3,2,2,블렌디드,꽃,베리, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0156000/W0156993.png,몬테스 슈럽,Montes Cherub,로제,3,1,2,블렌디드,꽃,레몬,베리
+https://wine21.speedgabia.com/WINE_MST/TITLE/0156000/W0156089.jpg,더 롱 독 로제,The Long Dog Rose,로제,2,1,2,시라/쉬라즈,꽃,레몬,베리
+https://wine21.speedgabia.com/WINE_MST/TITLE/0155000/W0155966.jpg,그랑 세르 따벨 '라 로제 에메',Grandes Serres Tavel 'La Rose d'Aimee',로제,5,1,3,블렌디드,꽃,레몬,사과
+https://wine21.speedgabia.com/WINE_MST/TITLE/0155000/W0155937.png,제라르 베르트랑 꼬뜨 로즈 로제,Gerard Bertrand Cote des Roses Rose,로제,3,1,3,블렌디드,꽃,베리,사과
+https://wine21.speedgabia.com/WINE_MST/TITLE/0155000/W0155936.jpg,로즈 마운트 O 루비,Rosemount O Ruby,로제,4,4,2,블렌디드,베리, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0155000/W0155926.jpg,도팡 꼬뜨 뒤 론 리저브 로제,Les Dauphins Cotes du Rhone Reserve Rose,로제,3,1,3,블렌디드,말린과일,베리,사과
+https://wine21.speedgabia.com/WINE_MST/TITLE/0155000/W0155799.jpg,로버트 오틀리 비치 헛 핑크 모스카토,Robert Oatley Beach Hut Pink Moscato,로제,3,4,2,블렌디드,베리,사과, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0155000/W0155520.jpg,아랄디카 브라케토 다퀴,Araldica Brachetto d'Acqui,로제,3,4,2,브라케토,꽃,레몬, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0155000/W0155174.jpg,로카 디 몬테그로시 로사토,Rocca Di Montegrossi Rosato,로제,6,1,2,산지오베제,꽃,레몬,베리
+https://wine21.speedgabia.com/WINE_MST/TITLE/0155000/W0155035.png,도멘 라포르트 르 부케 로제,Domaine Laporte Le bouquet Rose de PN,로제,4,1,2,피노 누아,꽃,베리,사과
+https://wine21.speedgabia.com/WINE_MST/TITLE/0154000/W0154960.png,호그와쉬 로제,Hogwash Rose,로제,5,1,2,그르나슈,레몬,베리, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0154000/W0154592.jpg,브리 피노 누아 로제,Bree Pinot Noir Rose,로제,0,4,2,피노 누아,베리, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0154000/W0154561.jpg,돈나푸가타 루메라 로자토,Donnafugata Lumera Rosato,로제,4,1,3,블렌디드,꽃,말린과일,베리
+https://wine21.speedgabia.com/WINE_MST/TITLE/0154000/W0154558.jpg,마레농 멀롯 로제,Marrenon Merlot Rose,로제,2,2,2,메를로,꽃,레몬,파인애플
+https://wine21.speedgabia.com/WINE_MST/TITLE/0154000/W0154557.jpg,마레농 클래식 루베롱 로제,Marrenon Classic Luberon Rose,로제,2,2,2,블렌디드,꽃,레몬, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0154000/W0154007.jpg,펠프스 크릭 플레르 드 로이 로제 피노 누아,Phelps Creek Fleur de Roy Rose Pinot Noir,로제,9,2,3,피노 누아,레몬, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0153000/W0153980.jpg,모란데 피오네로 로제,Morande Pionero Rose,로제,2,2,3,블렌디드,베리, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0153000/W0153974.jpg,도멘 뮈르뮈리움 르 르뚜르 로제,Domaine Mur Mur Ium Le Retour Rose,로제,6,1,2,블렌디드,베리,사과,시나몬
+https://wine21.speedgabia.com/WINE_MST/TITLE/0153000/W0153962.jpg,아네쿱 까사엔젤 모스카토 로사도,Anecoop Casa L'Angel Moscato Rosado,로제,3,4,3,블렌디드,베리, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0153000/W0153921.jpg,샤또 데스클랑 르 뿌쌍 로제,Chateau d'Esclans Le Poussin Rose,로제,3,1,3,블렌디드,꽃,베리,숙성
+https://wine21.speedgabia.com/WINE_MST/TITLE/0153000/W0153871.jpg,오미로제 프리미어 와인,Premier Omija Wine,로제,3,2,3,오미자,꽃, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0153000/W0153850.jpg,뷸러 화이트 진판델,Buehler White Zinfandel,로제,5,3,2,진판델,베리, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0153000/W0153507.jpg,샤또 데스클랑,Chateau d'Esclans,로제,8,1,3,블렌디드,레몬,베리,사과
+https://wine21.speedgabia.com/WINE_MST/TITLE/0153000/W0153506.jpg,샤또 데스클랑 레 클랑,Chateau d'Esclans Les Clans,로제,14,1,3,블렌디드,돌,베리,사과
+https://wine21.speedgabia.com/WINE_MST/TITLE/0153000/W0153489.jpg,포파니 모스카토 로사,Foffani Moscato Rosa,로제,6,4,3,블렌드,사과, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0153000/W0153317.jpg,클라랑스 딜롱 클라랑델 로제,Clarence Dillon Clarendelle Rose,로제,3,2,2,블렌디드,꽃,레몬,베리
+https://wine21.speedgabia.com/WINE_MST/TITLE/0153000/W0153018.png,도멘 몽로즈,Domaine Montrose,로제,1,1,2,블렌디드,베리,사과,파인애플
+https://wine21.speedgabia.com/WINE_MST/TITLE/0152000/152688.jpg,레드트리 화이트 진판델,Redtree White Zinfandel,로제,3,3,2,진판델,말린과일,베리,사과
+https://wine21.speedgabia.com/WINE_MST/TITLE/0152000/W0152353.jpg,그랜트 버지 모스카토 로사,Grant Burge Moscato Rosa,로제,4,4,2,모스카토 로사,꽃,시나몬,파인애플
+https://wine21.speedgabia.com/WINE_MST/IMAGE/0151000/T0151381_001.png,로스 바스코스 로제,Los Vascos Rose,로제,2,2,3,블렌디드,레몬,베리, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0151000/W0151260.jpg,브루몽 따나 시라 메를로 로제,BruMont Tannat Syrah Merlot Rose,로제,3,1,3,블렌디드,꽃,베리,사과
+https://wine21.speedgabia.com/WINE_MST/TITLE/0151000/W0151245.jpg,미쉘슈나이더 돈펠더 로제 아이스 와인,Michel Schneider Dornfelder Rose Eiswein,로제,6,5,4,돈펠더,사과,숙성, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0151000/W0151233.jpg,두르뜨 뉘메로 엥 로제,Dourthe Numero 1 Rose,로제,5,1,2,블렌디드,꽃,레몬,사과
+https://wine21.speedgabia.com/WINE_MST/TITLE/0150000/W0150913.jpg,심플리 진판델 로제,Simply Zinfandel Rose,로제,0,3,2,진판델,베리, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0150000/W0150862.jpg,리바니 모스카토 로제,Rivani Moscato Rose,로제,2,4,1,모스카토,베리, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0150000/W0150692.jpg,핑크 앨리펀트 로제,Pink Elephant Rose,로제,2,2,1,블렌디드,베리, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0150000/W0150368.png,니더버그 로제,Nederburg Rose,로제,2,2,3,피노타주,꽃,레몬,베리
+https://wine21.speedgabia.com/WINE_MST/TITLE/0150000/W0150332.jpg,페랑 에 피스 라 비에이 페름 로제,Perrin & Fils La Vieille Ferme Rose,로제,1,2,2,블렌디드,돌,베리, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0150000/W0150014.jpg,산타 아나 말벡 로제,Santa Ana Malbec Rose,로제,2,2,2,말벡,베리,사과, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0149000/W0149991.jpg,톨 홀스 피노타주 로제,Tall horse Pinotage Rose,로제,1,1,2,피노타주,오크통, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0149000/W0149841.jpg,마제이 벨구아르도 로제,Mazzei Belguardo Rose,로제,10,1,3,블렌디드,꽃,시나몬, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0148000/W0148173.jpg,조르쥐 뒤뵈프 로제 클라땅 시라,Georges Duboeuf Rose Clatant Syrah,로제,2,2,2,시라/쉬라즈,꽃,숙성, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0148000/W0148067.jpg,갤로 패밀리 화이트 진판델,Gallo Family White Zinfandel,로제,2,2,2,진판델,레몬,베리, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0148000/W0148024.jpg,마르께스 데 까세레스 로사도,Marques de Caceres Rosado,로제,2,1,3,템프라니요,꽃, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0147000/W0147631.jpg,판티니 체라수올로 다브루쪼,Fantini Cerasuolo d'Abruzzo,로제,4,1,3,몬테풀치아노,베리, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0147000/W0147505.jpg,아니스톤 베이 더 쇼어 로제,Arniston Bay The Shore Rose,로제,2,3,3,블렌디드,베리, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0147000/W0147455.jpg,체루비노 발상지아코모 모스까뗄 데 발렌시아 로제,Cherubino Valsangiacomo Moscatel de Valencia Rose,로제,0,4,3,모스카텔,꽃,레몬,시나몬
+https://wine21.speedgabia.com/WINE_MST/TITLE/0146000/W0146827.jpg,아템즈 피노 그리지오 라마토,Attems Pinot Grigio Ramato,로제,5,1,3,피노 그리지오,꽃,파인애플, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0146000/W0146752.jpg,도멘 데 뜨로띠에르 로제 당쥬,Domaine des Trottieres Rose d'Anjou,로제,4,1,3,블렌디드,베리, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0146000/W0146584.jpg,힐링어 스몰힐 로제,Small Hill Rose,로제,8,2,2,블렌디드,꽃,베리,숙성
+https://wine21.speedgabia.com/WINE_MST/TITLE/0146000/W0146562.jpg,테라 안디나 버라이탈 로제,Terra Andina Varietal Rose,로제,2,2,2,카르메네르,베리, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0146000/W0146040.jpg,보데가스 치비떼 그란 페우도 로사도,Bodegas Chivite Gran Feudo Rosado,로제,2,1,3,가르나차,꽃,베리, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0145000/W0145704.jpg,클라인 핑크 트럭,Cline Pink Truck,로제,3,2,2,블렌디드,레몬,베리, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0144000/W0144874.jpg,토레스 데 카스타,Torres De Casta,로제,1,2,2,블렌디드,말린과일,베리,오크통
+https://wine21.speedgabia.com/WINE_MST/TITLE/0143000/W0143522.jpg,코뱃 캐년 화이트 진판델,Corbett Canyon White Zinfandel,로제,2,2,2,블렌디드,베리, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0141000/W0141249.jpg,까베르네 당주,Cabernet d'Anjou,로제,2,1,2,카베르네 프랑,꽃,베리, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0141000/W0141099.jpg,바바 로제타,Bava Rosetta,로제,5,4,3,말바시아 디 스키에라노,꽃,베리, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0141000/W0141110.jpg,캐년 리지 화이트 진판델,Canyon Ridge White Zinfandel,로제,2,2,2,진판델,사과, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0140000/W0140802.jpg,이기갈 따벨 로제,E.Guigal Tavel Rose,로제,3,1,2,블렌디드,꽃, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0139000/W0139379.jpg,델리카토 화이트 진판델,Delicato White Zinfandel,로제,3,2,2,진판델,베리, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0139000/W0139024.jpg,르 로제 드 무똥 까데,Le Rose de Mouton Cadet,로제,4,2,2,블렌디드,꽃,베리, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0138000/W0138859.jpg,마르티네즈 부한다 칸디다토 템프라니요 로제,Martinez Bujanda Candidato Tempranillo Rose,로제,0,2,3,템프라니요,베리, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0137000/W0137961.jpg,카스텔로 디 아마 로사토,Castello di Ama Rosato,로제,6,1,2,블렌디드,돌,베리, 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0137000/W0137798.jpg,마르께스 모니스뜨롤 템프라니요 메를로 로제,Marques de Monistrol Tempranillo Merlot Rose,로제,1,2,3,블렌디드,베리, , 
+https://wine21.speedgabia.com/WINE_MST/TITLE/0137000/W0137355.jpg,블루 넌 핑크 아이스,Blue Nun Pink Icewein,로제,6,4,4,블렌디드,레몬,사과,숙성
